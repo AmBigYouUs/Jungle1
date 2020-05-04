@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Jungle</string>
+    <string name="welcome_to_chaos_jungle">Welcome to Chaos Jungle!</string>
+    <string name="this_is_the_introduction">Hello and welcome to Chaos Jungle! \n\nIn here you will brave bandits and many more dangerous obstacles in search of valuable treasure. \n\nHow much can you find before the jungle takes your life?</string>
+    <string name="new_game">New Game</string>
+    <string name="specials">Specials</string>
+    <string name="your_hp">Your HP</string>
+    <string name="heal">Heal</string>
+    <string name="explore_chaos_jungle">Explore Chaos Jungle</string>
+    <string name="visit_the_inn">Visit the Inn</string>
+    <string name="heal_fireball_shield_double_shot">Heal || Fireball || Shield || Double Shot</string>
+    <string name="days_in_the_jungle">Days in the Jungle</string>
+    <string name="quit_game">Quit Game</string>
+    <string name="inn_display">You visited the Inn and feel refreshed and stronger! \n(One day has passed)</string>
+    <string name="temporary">Temporary</string>
+    <string name="leave_jungle">Leave Jungle</string>
+    <string name="nothing_jungle1">After wandering around through the jungle underbrush for a time, you find yourself wondering where to go next.</string>
+    <string name="nothing_jungle2">The treasure is so close you can feel it in your bones! Just have to push past this overgrowth.</string>
+    <string name="snake_jungle">Oh no! A snake jumped out and bit you before running away. \n\n(You\'ve lost 2 health)</string>
+    <string name="shaman_jungle">You find a wise Shaman who restores your powers.\n\n(+1 to all Specials)</string>
+    <string name="spiders_jungle">You walk into a huge spider web. Large spiders fall all over you and you injure yourself in the mayhem. \n\n(You\'ve lost 2 health)</string>
+    <string name="oasis_jungle">Coming across a beautiful oasis, you rest a moment and restore your health. \n\n(Health Restored)</string>
+    <string name="tent_jungle">Finding an abandoned tent in the jungle, you quickly search the area. \n\n(You find a random special!)</string>
+    <string name="body_jungle">You stumble and find the bones of a dead body. Something seems oddly familiar about the traveler... \n\n(You find a random special!)</string>
+    <string name="bandits_jungle">A group of bandits bursts forth from the underbrush. \n\nPrepare to defend yourself!</string>
+    <string name="leopard_jungle">Hearing a loud growl, you look up to see a leopard in the trees. \n\nIt is attacking!</string>
+    <string name="try_to_run_away">Try to run away</string>
+    <string name="make_your_move">Make your move</string>
+    <string name="jungle_opponent">Jungle Opponent</string>
+    <string name="attack">Attack (3 Damage)</string>
+    <string name="defend">Defend (3 Block)</string>
+    <string name="image">image</string>
+    <string name="loss">Despite your best effort you have died to the perils of Chaos Jungle! \n\nWant to try your luck again?</string>
+    <string name="treasure">Congratulations!! You have found the famed treasure! \n\n There are more to get, can you find them all?</string>
+
+
+</resources>
